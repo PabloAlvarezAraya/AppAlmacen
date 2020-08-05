@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">AppAlmacen</string>
+    <!--comentarios crear string array-->
+    <string-array name="options">
+        <item>Bebidas</item>
+        <item>Comidas</item>
+        <item>Tienda</item>
+
+
+    </string-array>
+</resources>
